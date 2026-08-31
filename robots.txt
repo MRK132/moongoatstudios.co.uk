@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://moongoatstudios.co.uk/sitemap.xml
