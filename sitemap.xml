@@ -5,4 +5,13 @@
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
+  <url>
+    <loc>https://moongoatstudios.co.uk/coachgoat/privacy.html</loc>
+  </url>
+  <url>
+    <loc>https://moongoatstudios.co.uk/coachgoat/terms.html</loc>
+  </url>
+  <url>
+    <loc>https://moongoatstudios.co.uk/coachgoat/support.html</loc>
+  </url>
 </urlset>
